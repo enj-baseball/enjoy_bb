@@ -24,7 +24,7 @@ body{
     radial-gradient(circle at 8% 9%,rgba(255,229,122,.34) 0 5px,transparent 6px),
     radial-gradient(circle at 91% 16%,rgba(241,155,170,.25) 0 6px,transparent 7px),
     linear-gradient(180deg,#eaf9fd 0,#f7fff6 46%,#fffdf4 100%);
-  font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic","Meiryo",sans-serif;
+  font-family:"BIZ UDPGothic","BIZ UDP Gothic","Hiragino Sans","Yu Gothic","Meiryo",sans-serif;
   line-height:1.75;
   letter-spacing:.02em;
   overflow-x:hidden;
