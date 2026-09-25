@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enj-baseball.github.io/enjoy_bb/sitemap.xml
