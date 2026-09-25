@@ -24,13 +24,14 @@ body{
     radial-gradient(circle at 8% 9%,rgba(255,229,122,.34) 0 5px,transparent 6px),
     radial-gradient(circle at 91% 16%,rgba(241,155,170,.25) 0 6px,transparent 7px),
     linear-gradient(180deg,#eaf9fd 0,#f7fff6 46%,#fffdf4 100%);
-  font-family:"BIZ UDPGothic","BIZ UDP Gothic","Hiragino Sans","Yu Gothic","Meiryo",sans-serif;
+  font-family:"Noto Sans JP","Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic","Meiryo",sans-serif;
   line-height:1.75;
   letter-spacing:.02em;
   overflow-x:hidden;
 }
 a{color:inherit}
 button,a{-webkit-tap-highlight-color:transparent}
+button,input,select,textarea{font-family:inherit}
 img,svg{display:block;max-width:100%}
 section{scroll-margin-top:88px}
 .container{width:var(--container);margin-inline:auto}
