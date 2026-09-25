@@ -29,7 +29,7 @@
       try {
         await navigator.share({
           title: "イコノイジョイ野球部（仮）",
-          text: "推しも、野球も、どっちも楽しむ。東京・千葉メインのエンジョイ野球コミュニティ。",
+          text: "推し活も、野球も、どっちも楽しむ。東京・千葉メインのエンジョイ野球コミュニティ。",
           url: location.href
         });
         result.textContent = "";
